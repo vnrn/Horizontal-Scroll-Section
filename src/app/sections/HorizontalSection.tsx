@@ -41,7 +41,7 @@ export default function HorizontalSection() {
             <div ref={triggerRef}>
                 <div ref={sectionRef} className={styles.scrollSectionInner}>
                     <div className={styles.scrollSection}>
-                        <h2>Fashion is more than just clothing; it's a form of self-expression and an art that transcends time</h2>
+                        <h2>Fashion is more than just clothing; it&apos;s a form of self-expression and an art that transcends time</h2>
                     </div>
                 </div>
             </div>
