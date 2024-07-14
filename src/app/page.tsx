@@ -25,7 +25,7 @@ export default function Home() {
       </div>
       <HorizontalSection />
       <div className={styles.space}>
-        <h3>that's it✨</h3>
+        <h3>that&apos;s it✨</h3>
       </div>
     </main>
   );
